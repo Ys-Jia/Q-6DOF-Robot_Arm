@@ -1,4 +1,4 @@
-# Q-Six_axis-Robotic_Arm 
+# Q-6DOF-RobotArm 
 Path Planning with Autonomous Obstacle Avoidance Using Reinforcement Learning for Six-axis Arms
 ### Paper Link: [DOI:10.1109/ICNSC48988.2020.9238112](https://ieeexplore.ieee.org/document/9238112)
 
